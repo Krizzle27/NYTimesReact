@@ -1,0 +1,16 @@
+body{
+  font-family: 'Noto Serif', Helvetica, serif;
+}
+
+.panelTitle{
+  background-color: lightskyblue;
+  color: white;
+}
+
+.panel {
+  height: 500px;
+}
+
+.btn {
+  background-color: lightskyblue;
+}
